@@ -6,4 +6,6 @@ esta é a segunda modificação.
 
 esta é a terceira modificação. 
 
-esta é a quarta modificação. será enviada a um repositório remoto.
+esta é a quarta modificação. Será enviada a um repositório remoto.
+
+esta é a quinta modificação. Também será enviada a um repositório remoto.
